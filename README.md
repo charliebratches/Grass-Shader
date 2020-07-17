@@ -2,6 +2,8 @@ Implementation of a Unity grass shader with fancy scripting features. See it in 
 
 Inspired by the tech seen in Zelda: Breath of the Wild.
 
+![Cool gif](./grassReadmeScreens/grassExampleGif.gif)
+
 Features include:
 * Splat mapping to control height & color.
 * An additional splat map to control masking.
@@ -10,3 +12,8 @@ Features include:
 * Automatic slope masking. (grass won't appear on very steep terrain)
 * Supports your custom grass/plants/flowers/whatever textures with alpha channels (note, if you use a custom texture with a transparency channel, turn shadows off for best performance and to prevent artifacts)
 * Easy to set up. Just throw the prefab in your scene and tweak away.
+
+More Screens:
+![1](./grassReadmeScreens/screen2.PNG)
+![2](./grassReadmeScreens/screen3.PNG)
+![3](./grassReadmeScreens/screen4.PNG)
