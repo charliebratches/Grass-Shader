@@ -1,4 +1,4 @@
-Implementation of a grass shader in Unity with fancy scripting features. See it in action here: https://twitter.com/CharlieBratches/status/1258572353174372352. 
+Implementation of a GPU grass shader in Unity with fancy scripting features. See it in action here: https://twitter.com/CharlieBratches/status/1258572353174372352. 
 
 Inspired by the tech seen in Zelda: Breath of the Wild.
 
