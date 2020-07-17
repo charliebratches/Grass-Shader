@@ -1,4 +1,4 @@
-Implementation of a Unity grass shader with fancy scripting features. See it in action here: See it in action here: https://twitter.com/CharlieBratches/status/1258572353174372352
+Implementation of a Unity grass shader with fancy scripting features. See it in action here: https://twitter.com/CharlieBratches/status/1258572353174372352
 
 Features include:
 * Splat mapping to control height & color.
